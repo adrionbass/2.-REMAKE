@@ -1,6 +1,5 @@
 /************ REMAKE 3 *************/
 //const contenedor = document.querySelector('.flex-container');
-//const btn = document.getElementById('btn');
 let form = document.getElementById('formulario');
 form.addEventListener('submit', e => {
     e.preventDefault();
